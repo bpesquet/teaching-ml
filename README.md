@@ -1,36 +1,20 @@
-# Machine Learning Course
+# Teaching - Machine Learning
 
-This repository contains the public material for my Machine Learning course: [lectures](#-lectures), [tutorials](#️-tutorials), [lab works](#-labs) and [resources](#-resources).
-
-I have tried to write them in such a way that they should be accessible to anyone wanting to learn the subject, regardless of whether you are one of my students or not.
+This repository contains the source code for my Machine Learning courses.
 
 ## Table of Contents
 
 ### 📚 Lectures
 
-#### Overview
-
-- [Artificial Intelligence: past, present, future(s) ⤴](https://github.com/bpesquet/bpesquet.github.io/blob/master/content/presentations/chembiona-2925/index.md)
 - [Supervised Learning: a tutorial example](lectures/tutorial_example//)
-- [End-to-end project workflow](lectures/project_workflow/)
 - [Assessing classification performance](lectures/classification_performance/)
 - [Feedforward Neural Networks](lectures/feedforward_neural_networks/)
 - [Learning via Gradient Descent](lectures/gradient_descent/)
-
-#### Deep Learning
-
+- [End-to-end project workflow](lectures/project_workflow/)
 - [Convolutional Neural Networks](lectures/convolutional_neural_networks/)
 - [Recurrent Neural Networks](lectures/recurrent_neural_networks/)
-
-#### Large Language Models
-
 - [Large Language Models](lectures/large_language_models/)
-- [What happens when you prompt](lectures/what_happens_when_you_prompt/)
-
-#### Reinforcement Learning
-
 - [Introduction to Reinforcement Learning](lectures/rl_introduction/)
-- [Multi-armed Bandits](lectures/rl_bandits/)
 
 ### 🛠️ Tutorials
 
